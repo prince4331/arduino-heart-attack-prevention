@@ -1,0 +1,4 @@
+﻿Title: Heart Attack Prevention Prototype
+Overview: MAX30100 pulse oximeter monitoring with automatic drug-delivery stepper trigger and buzzer alerts.
+Hardware: Arduino Uno, MAX30100 sensor, stepper motor + driver, LCD I2C, buzzer, push button.
+Notes: Tune LHB and HHB thresholds to the patient's safe range before real deployments.
