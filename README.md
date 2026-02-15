@@ -1,4 +1,6 @@
-﻿# Heart Attack Prevention Prototype
+﻿# Heart Attack Prevention
+
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-HealthTech-9b59b6) ![Status](https://img.shields.io/badge/status-Active-success)
 
 MAX30100 pulse oximeter monitoring with automatic drug-delivery stepper trigger and buzzer alerts.
 
